@@ -1,5 +1,3 @@
-**Chandigarh University B.E. CSE 2nd Year Student**
-
 ## Hey there! 👋
 I'm currently rocking my second year in Computer Science and Engineering at Chandigarh University. Always eager to dive into the world of technology and its endless possibilities!
 
