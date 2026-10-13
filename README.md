@@ -6,29 +6,29 @@
 +91-9877967643 | [lovishgarg2004@gmail.com](mailto:lovishgarg2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lovish-garg-480b37249)
 
 ### About Me
-Backend-focused Software Engineer with experience in Java/Spring Boot, SQL, CI/CD automation, Dockerized deployment workflows, and production-ready security remediation. I enjoy building resilient enterprise systems, modernizing legacy code, and improving system reliability in high-volume environments.
+Backend-focused Software Engineer with hands-on experience in Java, Spring Boot, enterprise application development, CI/CD automation, Dockerized deployments, and production security remediation. I enjoy building resilient systems, modernizing legacy applications, and improving performance and reliability in high-volume environments.
 
 ### Experience
 
 #### Wissen Technology (Client: Morgan Stanley)
 ##### Trainee Analyst (Full-Time Consultant) | June 2026 – Present
-- Built, configured, and deployed custom AI agents, maintenance prompts, specialized skills, and execution workflows to remediate 150+ Helios and Mythos security vulnerabilities across high-volume Trade Enrichment projects.
-- Increased team productivity by 40% while improving codebase hygiene and accelerating security patching.
-- Led remediation efforts for legacy systems, technical debt reduction, and production risk mitigation in enterprise financial services.
+- Built and deployed custom AI agents, maintenance prompts, skills, and workflows to remediate 150+ Helios and Mythos security vulnerabilities across high-volume Trade Enrichment projects.
+- Improved team productivity by 40% while strengthening code hygiene and accelerating security patching.
+- Managed legacy remediation, technical debt reduction, and production risk mitigation in enterprise financial systems.
 
 #### Java Developer Intern | April 2025 – May 2026
-- Maintained Java/Spring backend services for Trade Completions and Allocations using Gradle and SQL in a high-volume financial environment.
-- Managed Jenkins CI/CD deployment pipelines and Dockerized environments to improve release stability.
-- Resolved critical CVE issues through dependency upgrades and decommissioning of high-risk legacy builds.
+- Maintained backend Java/Spring services for Trade Completions and Allocations using Gradle and SQL for real-time data enrichment.
+- Managed Jenkins CI/CD pipelines and Docker-based deployment environments to improve release stability.
+- Resolved critical CVE vulnerabilities through dependency upgrades and retirement of high-risk legacy builds.
 - Refactored and modernized legacy Perl scripts while preserving backward compatibility with evolving service architecture.
-- Performed root-cause analysis for production issues and technical debt to improve system reliability.
+- Conducted root-cause analysis for production issues and technical debt to improve system reliability.
 
 ### Featured Project
 
 #### Hotel Booking Application
 Java, Spring Boot, SQL, Docker, Jenkins, Gradle
-- Built a backend service for hotel management with real-time room availability tracking, transaction control, and payment validation.
-- Implemented automated Jenkins CI/CD pipelines and Docker-based deployment workflows for consistent delivery across environments.
+- Developed a backend service for hotel management with real-time room availability tracking, transaction handling, and payment validation.
+- Implemented Jenkins CI/CD automation and Dockerized deployments for consistent delivery across development and production environments.
 
 ### Education
 #### Bachelor of Engineering in Computer Science (CGPA: 8.2)
@@ -58,4 +58,4 @@ Data Structures & Algorithms, System Reliability, Vulnerability Remediation, CI/
 - LinkedIn: [Lovish Garg](https://www.linkedin.com/in/lovish-garg-480b37249)
 - GitHub: [@LovishGarg2004](https://github.com/LovishGarg2004)
 
-> Building reliable backend systems with a focus on performance, security, and scalable enterprise delivery.
+> Building robust backend systems with a focus on performance, security, and scalable enterprise delivery.
